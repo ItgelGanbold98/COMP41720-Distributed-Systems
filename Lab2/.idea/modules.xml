@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab2.iml" filepath="$PROJECT_DIR$/.idea/Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical 2/task1/auldfellas/auldfellas.iml" filepath="$PROJECT_DIR$/practical 2/task1/auldfellas/auldfellas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical 2/task2/auldfellas/auldfellas (1).iml" filepath="$PROJECT_DIR$/practical 2/task2/auldfellas/auldfellas (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical 2/task1/broker/broker.iml" filepath="$PROJECT_DIR$/practical 2/task1/broker/broker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical 2/task2/broker/broker (1).iml" filepath="$PROJECT_DIR$/practical 2/task2/broker/broker (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical 2/task1/client/client.iml" filepath="$PROJECT_DIR$/practical 2/task1/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical 2/task2/client/client (1).iml" filepath="$PROJECT_DIR$/practical 2/task2/client/client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical 2/task1/core/core.iml" filepath="$PROJECT_DIR$/practical 2/task1/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical 2/task2/core/core (1).iml" filepath="$PROJECT_DIR$/practical 2/task2/core/core (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical 2/task1/dodgygeezers/dodgygeezers.iml" filepath="$PROJECT_DIR$/practical 2/task1/dodgygeezers/dodgygeezers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical 2/task2/dodgygeezers/dodgygeezers (1).iml" filepath="$PROJECT_DIR$/practical 2/task2/dodgygeezers/dodgygeezers (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical 2/task1/girlsallowed/girlsallowed.iml" filepath="$PROJECT_DIR$/practical 2/task1/girlsallowed/girlsallowed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical 2/task2/girlsallowed/girlsallowed (1).iml" filepath="$PROJECT_DIR$/practical 2/task2/girlsallowed/girlsallowed (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lifeco-basic-main/lifeco.iml" filepath="$PROJECT_DIR$/lifeco-basic-main/lifeco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical 2/task1/task1.iml" filepath="$PROJECT_DIR$/practical 2/task1/task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical 2/task2/task1 (1).iml" filepath="$PROJECT_DIR$/practical 2/task2/task1 (1).iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+Main.class
+service/broker/LocalBrokerService.class
+service/broker/LocalBrokerService$ServiceDiscovery.class

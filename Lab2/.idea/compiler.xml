@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="auldfellas (1)" />
+        <module name="auldfellas" />
+        <module name="lifeco" />
+        <module name="girlsallowed (1)" />
+        <module name="broker" />
+        <module name="dodgygeezers" />
+        <module name="core" />
+        <module name="core (1)" />
+        <module name="dodgygeezers (1)" />
+        <module name="client (1)" />
+        <module name="client" />
+        <module name="broker (1)" />
+        <module name="girlsallowed" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auldfellas" target="1.8" />
+      <module name="auldfellas (1)" target="1.8" />
+      <module name="broker" target="1.8" />
+      <module name="broker (1)" target="1.8" />
+      <module name="client" target="1.8" />
+      <module name="client (1)" target="1.8" />
+      <module name="core" target="1.8" />
+      <module name="core (1)" target="1.8" />
+      <module name="dodgygeezers" target="1.8" />
+      <module name="dodgygeezers (1)" target="1.8" />
+      <module name="girlsallowed" target="1.8" />
+      <module name="girlsallowed (1)" target="1.8" />
+      <module name="lifeco" target="1.8" />
+      <module name="task1" target="1.5" />
+      <module name="task1 (1)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

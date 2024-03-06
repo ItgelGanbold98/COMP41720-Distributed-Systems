@@ -1,0 +1,30 @@
+version: '3.6'
+
+services:
+  broker:
+    build: broker
+    ports:
+      - "8083:8083"
+
+  auldfellas:
+    build: auldfellas
+    depends_on:
+      - broker
+    ports:
+      - "8080"
+
+  dodgygeezers:
+    build: dodgygeezers
+    depends_on:
+      - broker
+    ports:
+      - "8082"
+
+  girlsallowed:
+    build: girlsallowed
+    depends_on:
+      - broker
+    ports:
+      - "8081"
+
+

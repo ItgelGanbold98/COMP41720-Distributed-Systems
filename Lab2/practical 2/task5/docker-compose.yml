@@ -1,0 +1,47 @@
+version: '3'
+
+
+services:
+  broker:
+    build: broker
+
+
+  auldfellas:
+    build: auldfellas
+    environment:
+      RMI_SERVER: broker
+    depends_on:
+      - broker
+
+
+  dodgygeezers:
+    build: dodgygeezers
+    environment:
+      RMI_SERVER: broker
+    depends_on:
+      - broker
+
+
+  girlsallowed:
+    build: girlsallowed
+    environment:
+      RMI_SERVER: broker
+    depends_on:
+      - broker
+
+
+  client:
+    build: client
+    environment:
+      RMI_SERVER: broker
+    depends_on:
+      - broker
+      - auldfellas
+      - dodgygeezers
+      - girlsallowed
+
+
+
+
+
+

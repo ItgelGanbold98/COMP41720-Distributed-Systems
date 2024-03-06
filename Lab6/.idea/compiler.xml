@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="auldfellas (1)" />
+        <module name="auldfellas (3)" />
+        <module name="auldfellas (5)" />
+        <module name="girlsallowed (1)" />
+        <module name="core (2)" />
+        <module name="core (4)" />
+        <module name="broker (3)" />
+        <module name="girlsallowed (3)" />
+        <module name="client (4)" />
+        <module name="broker (5)" />
+        <module name="client (2)" />
+        <module name="girlsallowed (5)" />
+        <module name="dodgygeezers (4)" />
+        <module name="broker (1)" />
+        <module name="dodgygeezers (2)" />
+        <module name="auldfellas (2)" />
+        <module name="auldfellas (4)" />
+        <module name="girlsallowed (2)" />
+        <module name="lifeco" />
+        <module name="core (1)" />
+        <module name="core (3)" />
+        <module name="client (3)" />
+        <module name="girlsallowed (4)" />
+        <module name="dodgygeezers (1)" />
+        <module name="broker (4)" />
+        <module name="core (5)" />
+        <module name="client (1)" />
+        <module name="dodgygeezers (5)" />
+        <module name="client (5)" />
+        <module name="broker (2)" />
+        <module name="dodgygeezers (3)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auldfellas" target="1.8" />
+      <module name="broker" target="1.8" />
+      <module name="client" target="1.8" />
+      <module name="core" target="1.8" />
+      <module name="dodgygeezers" target="1.8" />
+      <module name="girlsallowed" target="1.8" />
+      <module name="task2" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>quoco-rmi</groupId>
+    <artifactId>task3</artifactId>
+    <version>0.0.1</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>core</module>
+        <module>auldfellas</module>
+        <module>dodgygeezers</module>
+        <module>girlsallowed</module>
+        <module>broker</module>
+        <module>client</module>
+    </modules>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>com.spotify</groupId>
+                <artifactId>dockerfile-maven-plugin</artifactId>
+                <version>1.4.10</version>
+                <executions>
+                    <execution>
+                        <id>tag-latest</id>
+                        <goals>
+                            <goal>build</goal><goal>tag</goal><goal>push</goal>
+                        </goals>
+                        <configuration>
+                            <repository>${project.artifactId}</repository>
+                            <tag>latest</tag>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+</project>
